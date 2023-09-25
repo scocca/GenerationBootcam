@@ -90,3 +90,5 @@ screen=Entry(wn, font=("arial",20,"bold"), width=20, borderwidth=5, background="
 screen.grid(row=0, column=0, columnspan=4, padx=4, pady=4)
 
 wn.mainloop()
+
+#asdasdasdasdasdasd
